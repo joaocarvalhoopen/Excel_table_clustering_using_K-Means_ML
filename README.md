@@ -8,10 +8,12 @@ License: MIT Open Source License
 
 ## How to:
 
-###Pre-reequesits:
+### Pre-reequesits:
+
 Install the free Anaconda for Python 3.6.
 
-###Procedure:
+### Procedure:
+
 1º Start with a table of data in a excel worksheet.
 
 The row will be what you want to cluster, in the end this program creates a new column with the cluster ID at each row, next to the name (second column).
