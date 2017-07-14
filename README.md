@@ -8,7 +8,7 @@ License: MIT Open Source License
 
 ## How to:
 
-Pre-reequesits:
+Pre-requisites:
 
 Install the free Anaconda for Python 3.6.
 
